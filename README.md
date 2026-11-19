@@ -1,13 +1,5 @@
-<div style="float: right; margin: 5px 5px 10px 15px;">
-<img width="30" height="30" alt="image" src="https://media.tenor.com/tzkZzMjgY4sAAAAj/undertale-deltarune.gif" style="">
-<img width="200" height="200" alt="image" src="https://gist.github.com/user-attachments/assets/683dfe62-ac19-448f-bb4f-098c9a039ce2" />
-  
-![image](https://gist.github.com/user-attachments/assets/56a58972-7313-4f47-8249-8167b4f21ef4)
 
-
-</div>
-
-# Olá! 👋 
+# Olá! 👋 <img width="30" height="30" alt="image" src="https://media.tenor.com/tzkZzMjgY4sAAAAj/undertale-deltarune.gif">
 Nada para dizer. Gifs: 
 
 
