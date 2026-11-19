@@ -1,11 +1,8 @@
-
-<img width="350" height="102" alt="meu perfil" src="https://gist.github.com/user-attachments/assets/56a58972-7313-4f47-8249-8167b4f21ef4" />
-
-<!-- ![imagem](https://gist.github.com/user-attachments/assets/683dfe62-ac19-448f-bb4f-098c9a039ce2) -->
-
 <div style="float: right; margin: 5px 5px 10px 15px;">
 <img width="30" height="30" alt="image" src="https://media.tenor.com/tzkZzMjgY4sAAAAj/undertale-deltarune.gif" style="">
 <img width="200" height="200" alt="image" src="https://gist.github.com/user-attachments/assets/683dfe62-ac19-448f-bb4f-098c9a039ce2" />
+  
+![image](https://gist.github.com/user-attachments/assets/56a58972-7313-4f47-8249-8167b4f21ef4)
 
 
 </div>
@@ -15,8 +12,7 @@ Nada para dizer. Gifs:
 
 
 <br>
-<img width="100" height="100" alt="image" src="https://media.tenor.com/aXnPle24WHUAAAAj/cat-dance.gif">
-<img width="100" height="100" alt="image" src="https://media.tenor.com/UaLWmqmKGaoAAAAj/duck-rotating.gif">
+<img width="100" height="100" alt="image" src="https://media.tenor.com/aXnPle24WHUAAAAj/cat-dance.gif"> <img width="100" height="100" alt="image" src="https://media.tenor.com/UaLWmqmKGaoAAAAj/duck-rotating.gif">
 
 
 ## História de terror/corrente da Samara
