@@ -1,11 +1,9 @@
 
 # Olá! 👋 <img width="30" height="30" alt="image" src="https://media.tenor.com/tzkZzMjgY4sAAAAj/undertale-deltarune.gif">
-Nada para dizer. Gifs: 
-
+Nada para dizer.
 
 <br>
-<img width="100" height="100" alt="image" src="https://media.tenor.com/aXnPle24WHUAAAAj/cat-dance.gif"> <img width="100" height="100" alt="image" src="https://media.tenor.com/UaLWmqmKGaoAAAAj/duck-rotating.gif">
-
+<img width="100" height="100" alt="image" src="https://media.tenor.com/aXnPle24WHUAAAAj/cat-dance.gif">
 
 ## História de terror/corrente da Samara
 Oi. Leia isso e não ignore, por favor... 
